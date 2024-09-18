@@ -1,0 +1,328 @@
+html {
+    color: #1E4B8E;
+}
+
+body {
+    font-family: "Comfortaa";
+    margin: 0px;
+    height: 200px;
+}
+.b1 {
+    height: 2px;
+}
+
+header {
+    padding-bottom: 0px;
+    margin-bottom: 20px;
+    height: 250px;
+}
+main {
+    position: relative;
+    bottom: 0px;
+    margin: 10px;
+    margin-top: 0px
+}
+footer {
+    margin: 30px
+}
+
+h1 {
+    color: white;
+    font-size: 90px;
+    background-color: #20547B;
+    padding: 30px;
+    position: relative;
+    padding-top: 50px;
+
+}
+header a {
+    background-color: #9BBAE9;
+    font-size: 17px;
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin: 20px;
+
+}
+header img {
+    width: 130px;
+    position: relative;
+    bottom: 215px;
+    left: 85%
+}
+.nemnogo {
+    font-family: "Jost";
+    font-weight: 300;
+    font-size: 40px;
+    background-color: #9BBAE9;
+    margin-bottom: 3px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.why {
+    font-family: "Jost";
+    font-weight: 500;
+    font-size: 80px;
+    text-align: center;
+
+}
+.one {
+    margin: 10px
+}
+.big h4 {
+    font-family: "Jost";
+    font-weight: 800;
+    font-size: 20px;
+    margin-bottom: 0px
+}
+.big h5 {
+    margin-top: 0px;
+    font-size: 15px;
+}
+.big h3 {
+    font-family: "Jost";
+    font-weight: 300;
+    font-size: 40px;
+    background-color: #9BBAE9;
+    margin-bottom: 3px;
+    margin-top: 5px
+}
+
+
+.one h4 {
+    font-size: 200px;
+    color:#9BBAE9;
+    font-family: "Corinthia";
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: flex;
+    padding: 50px;
+    margin-left: 100px
+}
+.one h5 {
+    padding-right: 50px;
+    display: flex;
+    position: relative;
+    bottom: 200px;
+    margin-left: 80px;
+    width: 400px;
+}
+.tamb {
+    margin-bottom: 30px
+}
+.lala {
+    position: relative;
+    top: 5px
+}
+.why h4 {
+    font-size: 500px;
+}
+.usl {
+    font-size: 70px;
+    text-align: center;
+    position: relative;
+    top: 10px;
+    margin-bottom: 0px;
+}
+.form img {
+    width: 300px;
+    margin: 5%
+}
+.zaiav {
+    text-align: center;
+    font-size: 30px;
+}
+.reset {
+    width: 100px;
+    color: #1E4B8E;
+    background-color: white;
+}
+.reset:focus {
+    background-color: #E5EAF2;
+}
+.submit {
+    width: 130px;
+    background-color: #1E4B8E;
+}
+.file {
+    width: 250px;
+    color: #1E4B8E;
+    background-color: white;
+}
+input {
+    width: 500px;
+    height: 50px;
+}
+button {
+    position: relative;
+    left: 15%
+}
+.lg {
+    position: relative;
+    bottom: 245px
+}
+.aa {
+    position: relative;
+    bottom: 30px
+}
+.form p {
+    font-weight: 1000;
+}
+input {
+    background-color: #9BBAE9;
+    font-family: "Comfortaa";
+    color: white;
+    border: none
+}
+::placeholder {
+    color: white
+}
+
+.poshiv {
+
+    
+}
+.razr {
+
+
+}
+.rab {
+
+
+}
+.ul {
+    position: relative;
+    bottom: 1195px;
+    left: 75%;
+    background-color: #9BBAE9;
+    padding: 5px;
+    padding-top: 0px;
+    width: 360px;
+}
+.hhh h4 {
+    font-size: 200px;
+    font-family: "Corinthia";
+    color: #9BBAE9;
+    margin: 10px;
+    margin-left: 100px;
+}
+.odin h5 {
+    position: relative;
+    bottom: 150px;
+    margin-left: 20px
+}
+.two h4 {
+    position: relative;
+    left: 60%;
+    bottom: 295px
+}
+.two h5 {
+    position: relative;
+    left: 63%;
+    bottom: 445px;
+}
+.three h4 {
+    position: relative;
+    bottom: 400px;
+    margin-left: 60px
+}
+.three h5 {
+    position: relative;
+    left: 3%;
+    bottom: 550px
+}
+.four h4 {
+    position: relative;
+    bottom: 700px;
+    left: 60%
+}
+.four h5 {
+    position: relative;
+    bottom: 850px;
+    left: 58%
+}
+.m1 {
+    height: 120%;
+}
+.two {
+    width: 500px;
+    margin-left: 40%
+}
+.four {
+    width: 500px;
+    margin-left: 40%
+}
+.odin {
+    margin-left: 100px;
+}
+.three {
+    margin-left: 100px;
+}
+.b1 {
+    height: 100%;
+}
+.hhh {
+    height: 10%;
+}
+footer h4 {
+    font-weight: 1000;
+}
+.pochta {
+    position: relative;
+    left: 70%;
+    font-size: 20px;
+
+}
+.pochta a{
+    margin-top: none;
+}
+.tel {
+    position: relative;
+    left: 10%;
+    font-size: 20px;
+}
+footer {
+    margin-top: 130px;
+    margin-bottom: 20px
+}
+.big h2 {
+    font-size: 40px;
+    font-family: "Jost";
+    margin-top: 0px;
+}
+.m1 img {
+    width: 1400px;
+    position: absolute;
+    top: 60px
+
+}
+.one p {
+    line-height: 2;
+    font-weight: 500;
+}
+.m1 footer {
+    margin-top: 200px;
+}
+.nov h2 {
+    font-size: 60px;
+    font-family: "Jost";
+    text-align: center;
+}
+.photo {
+    text-align: center;
+}
+.photo h3 {
+    font-size: 30px;
+    position: relative;
+
+    background-color: #9BBAE9;
+}
+.photo ul {
+    text-align: center;
+    font-size: 20px;
+    position: relative;
+    bottom: 30px;
+    background-color: #9BBAE9;
+}
